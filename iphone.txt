@@ -1,0 +1,12 @@
+class  mobile
+{	
+	public static void main(String args[])
+	{
+		String name="Apple iphone 14 blue,128gb";
+		int actual_price=79900;
+		int price_with_off=67999;
+		int price_with_bankoffer=5;
+		double a=(5.0/67999)*100;
+		System.out.println(a);
+	}
+}
